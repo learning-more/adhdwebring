@@ -1,13 +1,13 @@
 {
-    "title": "Nerds of the 90s",
-    "description": "This is just a demo of a webring. It could be about anything - Metal Bands, Knitting, Craft Beer, Accessibility... For this one, let's just say it's about the good old 90s.",
+    "title": "ADHD Webring",
+    "description": "Webring of personal sites, created by people who identify as having ADD/ADHD or a similar experience with distraction. Does not include institutions, as the focus is on the personal experience.",
     "image": "freakazoid.jpg",
-    "url": "https://webringdemo.netlify.com",
-    "repo": "https://github.com/maxboeck/webring",
+    "url": "https://adhdwebring.meandyouis.us",
+    "repo": "https://github.com/learning-more/adhdwebring",
     "admins": [
         {
-            "name": "Max Böck",
-            "url": "https://github.com/maxboeck"
+            "name": "Charles Wilson",
+            "url": "https://github.com/learning-more"
         }
     ]
 }
